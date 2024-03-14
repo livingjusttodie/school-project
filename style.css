@@ -178,11 +178,23 @@ body1 {
     line-height: 1.7;
 }
 
-/*
+
+
+
+footer{
+	background-color: black
+}
+
+span {
+	color:aliceblue
+}
+
+
+
 .intro-video-section{
     width:74.375vw;
     background-color:blue;
     margin-left:auto;
     margin-right:auto;
     height:62.5vh;
-}*/
+}
